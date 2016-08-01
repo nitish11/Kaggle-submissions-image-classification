@@ -1,0 +1,5 @@
+*.csv
+*.h5
+dataset/
+models/
+*.pyc
